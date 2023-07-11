@@ -1,16 +1,13 @@
-# submission
+# UAS PEMOGRAMAN MOBILE
+| Nama    | Agus sanjaya  |
+| ------  | ------------- |
+| NIM     | 312010060     |
+| Kelas   | TI.20.A1      |
+| Matkul  | Pemograman mobile|
 
-A new Flutter project.
+# IndoNews-App-with-Flutter-using-Api
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Pinctures](img/indonews.png)
+![Pinctures](img/indonews1.png)
