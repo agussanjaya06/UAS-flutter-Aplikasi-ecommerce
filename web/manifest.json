@@ -1,6 +1,6 @@
 {
-    "name": "submission",
-    "short_name": "submission",
+    "name": "shamo",
+    "short_name": "shamo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
